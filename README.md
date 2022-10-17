@@ -3,8 +3,9 @@
 <hr>
 Projeto 01 - Compra de pizzas
 <hr>
-<br>
-Em construção
+<a href="https://gabriel-anesi.github.io/_Javascript/01%20-%20Compra%20de%20pizzas">Acessar página</a>
+<br></br>
+<img src="https://github.com/gabriel-anesi/_Javascript/blob/master/01%20-%20Compra%20de%20pizzas/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
 Projeto 02 - Urna eletrônica
@@ -40,5 +41,12 @@ Projeto 06 - Relógio
 <a href="https://gabriel-anesi.github.io/_Javascript/06%20-%20Relogio">Acessar página</a>
 <br></br>
 <img src="https://github.com/gabriel-anesi/_Javascript/blob/master/06%20-%20Relogio/images/imagem%20site.png" height="500px">
+<br></br>
+<hr>
+Projeto 08 - Jogo da velha
+<hr>
+<a href="https://gabriel-anesi.github.io/_Javascript/08%20-%20Jogo%20da%20velha">Acessar página</a>
+<br></br>
+<img src="https://github.com/gabriel-anesi/_Javascript/blob/master/08%20-%20Jogo%20da%20velha/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
