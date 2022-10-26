@@ -43,6 +43,13 @@ Projeto 06 - Relógio
 <img src="https://github.com/gabriel-anesi/_Javascript/blob/master/06%20-%20Relogio/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
+Projeto 07 - Clima
+<hr>
+<a href="https://gabriel-anesi.github.io/_Javascript/07%20-%20Clima">Acessar página</a>
+<br></br>
+<img src="https://github.com/gabriel-anesi/_Javascript/blob/master/07%20-%20Clima/images/imagem%20site.png" height="500px">
+<br></br>
+<hr>
 Projeto 08 - Jogo da velha
 <hr>
 <a href="https://gabriel-anesi.github.io/_Javascript/08%20-%20Jogo%20da%20velha">Acessar página</a>
