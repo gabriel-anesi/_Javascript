@@ -64,3 +64,17 @@ Projeto 09 - Quadro de desenho
 <img src="https://github.com/gabriel-anesi/_Javascript/blob/master/09%20-%20Quadro%20de%20desenho/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
+Projeto 10 - quiz
+<hr>
+<a href="https://gabriel-anesi.github.io/_Javascript/10%20-%20Quiz">Acessar página</a>
+<br></br>
+<img src="https://github.com/gabriel-anesi/_Javascript/blob/master/10%20-%20Quiz/images/imagem%20site.png" height="500px">
+<br></br>
+<hr>
+Projeto 11 - Arrasta e solta
+<hr>
+<a href="https://gabriel-anesi.github.io/_Javascript/11%20-%20Arrasta%20e%20solta">Acessar página</a>
+<br></br>
+<img src="https://github.com/gabriel-anesi/_Javascript/blob/master/11%20-%20Arrasta%20e%20solta/images/imagem%20site.png" height="500px">
+<br></br>
+<hr>
